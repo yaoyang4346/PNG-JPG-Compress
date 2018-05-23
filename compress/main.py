@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 from Compress import Compress
 import os
-print("请输入目录的绝对路径，例如：/home/chenyaoyang/123")
+print("请输入目录的绝对路径，例如：/home/***/123")
 while True:
 	dir = raw_input("请输入：")
 	if os.path.exists(dir) and os.path.isdir(dir):
