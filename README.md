@@ -10,4 +10,4 @@
 4.最后会生成一个日志文件就在输出目录下，输出目录位置若选择覆盖源文件，则就在源目录下，若选择输出到新目录，则就在该程序所在目录下。会创建一个名为out+随机数的路径。
 
 
-![](https://github.com/yaoyang4346/PNG-JPG-Compress/raw/master/1.gif)
+![](https://github.com/yaoyang4346/PNG-JPG-Compress/raw/master/1.png)
